@@ -9,8 +9,7 @@
 <meta name-"viewport" content ="width-device-width, initial-scale-1, shrink-to-fit=no">
 
 <link rel="stylesheet"  href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css " />
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/4.0.0/css/jquery.nim.css"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.00./css/bootstrap.min.css " ></script>
+
 <link rel=""stylesheet" type="text/css"  href="style.css"  />
 
 <style>
@@ -28,6 +27,30 @@ padding: 10px 10 px;
  background-color: #ff1493;
 
 }
+<style>
+body
+  {
+-webkit-background-size: cover;
+background:url('music.jpg');
+background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  }
+  h1{
+    text-align:center;
+  }
+  h2 {
+    text-align:center;
+    color:#c0c0c0;
+  }
+  
+  
+  button {
+    text-align:center;
+    
+  }
+</style>
+  </head>
 
 </style>
 </head>
@@ -37,8 +60,8 @@ padding: 10px 10 px;
  <h1 style ="color : #00008b " class="text-uppercase"><u><strong>Music </strong></u></h1>
 
 <p style ="color: #800000 " class="text-uppercase" >Music is an art form,and cultural activity, whose medium is sound . General definitons of music include commom elements such as pitch ,rhythm, dynamics and the sonic qualitied of timbre and texture.</p>
-< a href= " https://en.m.wikipedia.org/wiki/Music" ></a>
-< button  type="button" class ="btn btn-info " > Learn more</button>
+
+<button  class="btn btn-info" > Learn more</button>
 
 </div>
 <h2 style="color:#c214c3 " class="text-lowerrcase">MUSIC IS A FORM OF ART </h2>
